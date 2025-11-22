@@ -10,7 +10,7 @@ import Faq from "./components/home/faq";
 import ContactForm from "./components/ContactForm";
 
 export const metadata: Metadata = {
-  title: "Crypto",
+  title: "mjxchange",
 };
 
 export default function Home() {
