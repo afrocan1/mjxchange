@@ -75,7 +75,7 @@ const Banner = () => {
             <iframe
               height='400'
               className='p-4 md:w-[50rem] w-full'
-              src='https://www.youtube.com/embed/xAAEiykov1w?si=7Keuu5t0oJzZ67Q-'
+              src=''
               title='How Our Product Works'
               frameBorder='0'
               allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share'
